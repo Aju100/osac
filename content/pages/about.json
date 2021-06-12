@@ -1,0 +1,17 @@
+{
+  "title": "About",
+  "path": "/about",
+  "blocks": [
+    {
+      "_template": "TitleBlock",
+      "title": "",
+      "underline": true,
+      "content": ""
+    },
+    {
+      "content": "hehe",
+      "_template": "ContentBlock"
+    }
+  ],
+  "displayTitle": true
+}

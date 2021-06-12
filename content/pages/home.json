@@ -1,0 +1,31 @@
+{
+  "path": "/",
+  "blocks": [
+    {
+      "_template": "ContentBlock",
+      "content": "## OSAC\n\nkada ayunxa haita **guys** hehe."
+    }
+  ],
+  "hero": {
+    "headline": "Welcome to OSAC",
+    "textline": "Community of Free and Open Source enthusiasts from ASCOL",
+    "ctas": [
+      {
+        "label": "Read The Blog",
+        "link": "/blog",
+        "primary": true,
+        "arrow": true
+      },
+      {
+        "label": "Contact Us",
+        "link": "/contact",
+        "arrow": false,
+        "primary": false
+      }
+    ],
+    "image": "../images/cafe-2.jpg",
+    "large": true
+  },
+  "displayTitle": false,
+  "title": "Home"
+}

@@ -1,0 +1,15 @@
+{
+  "authors": [
+    {
+      "name": "osac",
+      "id": "osac",
+      "email": "hi@osac.com"
+    },
+    {
+      "id": "csaju",
+      "name": "Aju Tamang",
+      "email": "aju@osac.io",
+      "link": "mailto:csaju.com"
+    }
+  ]
+}
